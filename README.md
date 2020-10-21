@@ -34,7 +34,7 @@ Horas cronológicas: 24; Créditos: 5
   * Distribuciones de probabilidad
   * Regresión lineal con R
   * Regresión logística con R
-  * Series de tiempo
+  * Nociones báscas de series de tiempo
 ## Evaluaciones
 Taller 1: 4 de nociembre (30%) <br>
 Taller 2: 25 de noviembre (30%)<br>
