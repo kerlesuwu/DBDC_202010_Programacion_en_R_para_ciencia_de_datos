@@ -6,7 +6,7 @@ Educación Profesional <br>
 **Ayudante:** Jorge Arévalo Labarca, jorge.arevalol@usach.cl
 
 # DBDC-III-2020. Programación en R para Ciencia de Datos 
-Contiene el material y noetbooks desarrollados para la tercera versión del curso Introducción a R para Ciencia de datos, del diplomado Big Data y Ciencia de Datos, Pontificia Universidad Católica de Chile
+Contiene el material y notebooks desarrollados para la tercera versión del curso Introducción a R para Ciencia de datos 2020, del diplomado Big Data y Ciencia de Datos, Pontificia Universidad Católica de Chile
 
 ### Resultados de Aprendizaje
 
